@@ -1,0 +1,9 @@
+! pip install -q -U transformers
+! pip install -q -U peft
+! pip install -q -U bitsandbytes
+! pip install -q -U datasets
+! pip install -q -U trl
+! pip install -q -U accelerate
+! pip install -q -U wandb
+! pip install -q -U psutil
+! pip install  -q  GPUtil
